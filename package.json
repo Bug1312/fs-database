@@ -1,0 +1,11 @@
+{
+    "name": "fs-database",
+    "version": "1.0.0",
+    "description": "Creates or finds a local folder that stores and creates files as a database",
+    "main": "index.js",
+    "keywords": [
+        "database"
+    ],
+    "author": "Bug1312",
+    "license": "ISC"
+}
