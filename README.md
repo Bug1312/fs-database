@@ -3,7 +3,7 @@
 Basic replication of @replit/database but with the use of node's filesystem locally
 
 ## Get Started
-    const Database = require('@bug1312/fs-database'),
+    const Database = require('fs-database'),
         db = new Database();
 
 ## Docs
